@@ -5,7 +5,7 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 
 ### Links
 
-- Live Site URL: [Here]()
+- Live Site URL: [Here](https://mahmoudbadrali.github.io/NFT-preview-card-component/)
 
 ## Author
 
